@@ -1,0 +1,3 @@
+Patient has fever and cough.
+No history of diabetes.
+Prescribed paracetamol.

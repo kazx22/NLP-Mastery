@@ -1,0 +1,9 @@
+id,text,label
+1,Patient has fever and cough,DISEASE
+2,No history of diabetes,O
+3,Prescribed paracetamol,O
+4,Diabetes detected,DISEASE
+5,Patient complains of chest pain,DISEASE
+6,No infection found,O
+7,Hypertension observed,DISEASE
+8,Patient is healthy,O
